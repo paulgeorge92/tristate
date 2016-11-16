@@ -14,7 +14,7 @@ Tri-State can be applied to any div element <br/>
 | ------------------|:-------------:| -------------:|-------------------------------------------------------------------|
 | off				| string		| OFF			| Text to be displayed for OFF state								|
 | intermediate		| string		| Intemediate	| Text to be displayed for Intermediate state						|
-| on				| string		| "ON"			| Text to be displayed for ON state									|
+| on				| string		| ON			| Text to be displayed for ON state									|
 | background		| color code	| #4f4b4b		| Background colour of Tri-State button								|
 | sliderColor		| color code	| #fee500		| colour of button representing the state							|
 | initial			| string		| Intermediate	| Initial state of button- Any of three (OFF / Intermediate / ON)	|
